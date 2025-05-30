@@ -43,7 +43,7 @@ I'm a passionate full-stack web developer currently studying at the British Colu
 
 ### 🎯 Featured Projects
 
-#### 🌐 [Circles](https://idsp-circle-tawny.vercel.app/) | [Repository](https://github.com/nikitalobanov12/circles)
+#### 🌐 [Circles](https://idsp-circle-tawny.vercel.app/) | [Repository](https://github.com/ILHT-IDSP/IDSP-Circle)
 
 An advanced social media application showcasing full-stack expertise
 
