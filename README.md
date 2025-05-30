@@ -43,7 +43,7 @@ I'm a passionate full-stack web developer currently studying at the British Colu
 
 ### 🎯 Featured Projects
 
-#### 🌐 [Circles](https://circles-production.vercel.app) | [GitHub](https://github.com/nikitalobanov12/circles)
+#### 🌐 [Circles](https://circles-production.vercel.app) | [Repository](https://github.com/nikitalobanov12/circles)
 
 An advanced social media application showcasing full-stack expertise
 
@@ -58,14 +58,6 @@ AI-powered SaaS platform for affiliate marketing optimization
 -   **Tech Stack:** Next.js, TypeScript, Firebase, Stripe, OpenAI API
 -   **Features:** AI strategy generation, payment processing, real-time analytics
 -   **Focus:** SaaS architecture, payment integration, AI implementation
-
-#### 👨‍💻 [Devhouse](https://github.com/nikitalobanov12/devhouse)
-
-Social platform for developers to share code and collaborate
-
--   **Tech Stack:** Node.js, TypeScript, Hono, Prisma, Redis, Zod
--   **Features:** Code snippet sharing, developer networking, feedback systems
--   **Focus:** Backend optimization, developer experience, community building
 
 
 ### Languages
