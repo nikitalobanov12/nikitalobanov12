@@ -7,6 +7,7 @@ Former head of technical minutiae at the global foundation of situational system
 # Currently Learning
 
   - Force push and pray
+  - consolidating with a cool website that lets you highlight some text and creates a visual for you 🙂
   - geometric abstraction (in the general sense as it applies to cubic regression)
   - liquification
   - solidification
